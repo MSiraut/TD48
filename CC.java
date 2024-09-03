@@ -13,4 +13,11 @@ public class Personne{
     public String getNom(){
         return this.nom;
     }
+    public String getPrenom(){
+        return this.prenom;
+
+    }
+    public int getAge(){
+        return this.age;
+    }
 }
